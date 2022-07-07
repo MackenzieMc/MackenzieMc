@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 My name is Mackenzie McClemont!
+
+Front-End Developer
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MackenzieMc&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MackenzieMc&langs_count=5&theme=tokyonight)]()
+
 
 <!--
 **MackenzieMc/MackenzieMc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
