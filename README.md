@@ -5,8 +5,11 @@
 <p>You can check out my portfolio at <a href="https://www.mackenziecodes.ca/">mackenziecodes.ca</a></p>
 
 <h3>My Toolkit</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,react,firebase,netlify,vscode)](https://skillicons.dev)
+<p>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,react,firebase,netlify,vscode" />
+  </a>
+</p>
 
 <h3>My Github Stats</h3>
 
