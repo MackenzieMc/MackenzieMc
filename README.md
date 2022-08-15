@@ -6,9 +6,7 @@
 
 <h3>My Toolkit</h3>
 <p>
-  <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,react,firebase,netlify,vscode" />
-  </a>
 </p>
 
 <h3>My Github Stats</h3>
