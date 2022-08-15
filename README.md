@@ -4,6 +4,10 @@
 
 <p>You can check out my portfolio at <a href="https://www.mackenziecodes.ca/">mackenziecodes.ca</a></p>
 
+<h3>My Toolkit</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,react,firebase,netlify,vscode)](https://skillicons.dev)
+
 <h3>My Github Stats</h3>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MackenzieMc&count_private=true&theme=tokyonight&showicons=true)]()
